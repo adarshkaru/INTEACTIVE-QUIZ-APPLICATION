@@ -4,9 +4,9 @@
 
 - **Company:** CODTECH IT Solutions  
 
-- **Name:** Bowrothu Tarun  
+- **Name:** Karu Adarsh  
 
-- **Intern ID:** :CT04DG100
+- **Intern ID:** :CT04DG894
 
 - **Domain:** Front-End Development  
 
